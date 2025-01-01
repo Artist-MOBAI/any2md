@@ -20,9 +20,9 @@ export default {
       },
       animation: {
         "infinate-scroll-negative":
-          "infinite-scroll-negative 50s linear infinite",
+          "infinite-scroll-negative 30s linear infinite",
         "infinate-scroll-positive":
-          "infinite-scroll-positive 50s linear infinite",
+          "infinite-scroll-positive 30s linear infinite",
       },
       colors: {
         background: "var(--background)",
