@@ -28,9 +28,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         mobai: {
-          yellow: "#FFE96E",
+          yellow: "#EFEB48",
           black: "#202020",
         },
+      },
+      fontFamily: {
+        pixel: ["var(--font-pixel)"],
       },
     },
   },
